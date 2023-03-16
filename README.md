@@ -1,5 +1,5 @@
-# sea2015
-Files and code needed to replicate the results of "Dynamic Range MIN-MAX TREEE"
+# Memoria
+Archivo y codigo necesarios para replicar el resultado de "Dynamic Range MIN-MAX TREEE"
 
 Para compilar:
 ```
