@@ -10,5 +10,5 @@ Para ejecutar deberan descargar los dataset  "wiki" "world_leaders" "dna" "coreu
 
 bash experiment.sh
 
-este script entrega un archivo de texto con el nombre del dataset, la cantidad de operaciones, el numero de experimento y los resultados
+Este script entrega un archivo de texto con el nombre del dataset, la cantidad de operaciones, el numero de experimento y los resultados
 
